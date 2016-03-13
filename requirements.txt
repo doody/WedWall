@@ -1,0 +1,5 @@
+Django==1.9.4
+django-bower==5.1.0
+django-facebook==6.0.3
+six==1.10.0
+Unidecode==0.4.19
